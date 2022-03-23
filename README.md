@@ -1,1 +1,1 @@
-123
+springcloud config配置总控中心测试
